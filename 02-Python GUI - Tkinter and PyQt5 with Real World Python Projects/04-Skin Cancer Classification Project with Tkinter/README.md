@@ -17,7 +17,7 @@ Dataset Columns:
 
 jupyter dosyasını python dosyasına dönüştürmek için:
 ```
-jupyter nbconvert skin_cancer_classification_project_with_Tkinter.ipynb --to script
+jupyter nbconvert main.ipynb --to script
 ```
 Ve py dosyasından exe dosyasını oluşturmak için:
 ```
