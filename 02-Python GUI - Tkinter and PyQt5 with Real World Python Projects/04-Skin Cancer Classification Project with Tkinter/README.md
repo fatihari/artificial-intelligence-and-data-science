@@ -13,3 +13,13 @@ Dataset Columns:
 - **sex** = cinsiyeti
 - **localization** = kanser hücresinin alındığı bölge(scalp, ear, face, back, trunk, chest gibi vücut bölgeleri)
 
+#### 
+
+jupyter dosyasını python dosyasına dönüştürmek için:
+```
+jupyter nbconvert skin_cancer_classification_project_with_Tkinter.ipynb --to script
+```
+Ve py dosyasından exe dosyasını oluşturmak için:
+```
+pyinstaller --onefile -w main.py
+```
