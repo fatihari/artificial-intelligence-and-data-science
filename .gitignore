@@ -5,3 +5,6 @@
 *.spec
 *.pyc
 *.gz
+*.dcm
+*.csv
+*.txt
