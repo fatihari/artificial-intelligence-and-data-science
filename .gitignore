@@ -5,6 +5,4 @@
 *.spec
 *.pyc
 *.gz
-*.dcm
-*.csv
-*.txt
+RSNA Pneumonia Detection
